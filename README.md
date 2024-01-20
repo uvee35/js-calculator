@@ -6,8 +6,9 @@
 This web application allows users to perform basic mathematical calculations using a user-friendly calculator interface. It's implemented using HTML, CSS, and JavaScript, providing a simple and efficient way to perform calculations online.
 
 ## Live Demo
-
 You can try the calculator online: [Live Demo]()
+
+
 <img width="562" alt="Screenshot 2024-01-20 at 16 09 12" src="https://github.com/uvee35/js-calculator/assets/151088688/38d05e8e-42c6-4538-975f-3d93a15deae0">
 
 <img width="588" alt="Screenshot 2024-01-20 at 16 09 48" src="https://github.com/uvee35/js-calculator/assets/151088688/b228bcdb-b94e-40b7-b326-545999d21753">
